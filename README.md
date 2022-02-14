@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @enzimatik
+- 👀 I’m interested in TECH and BIOLOGY 
+- 🌱 I’m currently learning MACHINE LEARNING and BIOINFORMATICS
+- 💞️ I’m looking to collaborate on ML and genomics projects
+- 📫 How to reach me satrio.biology at yahoo dot com
